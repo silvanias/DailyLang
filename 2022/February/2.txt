@@ -1,4 +1,4 @@
-﻿Testdata
-Test data is the language of the day!
-Test invalid
-404
+﻿C++
+C++ is the language of the day! C++ is a widely used Object Oriented Programming (OOP) language and is used for a myriad of things such as search engines, VR applications, air travel, movie production, and even exploration on Mars! In C++ you can use the 'auto' keyword which assigns a variable type for you. For example what would be the result if the program added together two variables:
+auto a = 5, auto b = 4?
+9
