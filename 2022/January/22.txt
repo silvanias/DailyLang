@@ -1,4 +1,0 @@
-Rust
-Rust has powerful pattern matching abilities, can you see what the result of this match will be?
-match 5 { 5 => 25, 6 => 30 }
-25
