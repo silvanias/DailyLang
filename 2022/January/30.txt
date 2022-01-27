@@ -1,0 +1,4 @@
+﻿Python
+Python is today's coding language! To display a message in python you must use the 'print' function. What would be the result if the program was:
+print(2 + 3)?
+5
