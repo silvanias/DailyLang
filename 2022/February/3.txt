@@ -1,0 +1,4 @@
+﻿C#
+C# (pronounced C sharp) is today's coding language! C# is the language most commonly used in the videogaming industry and is also the language this app is written in! To write something to the console in C# you use the function Console.Writeline((Content here)), can you see what would be displayed with this code?
+Console.Writeline("23")
+23
